@@ -1,5 +1,5 @@
 ### Atlanta-Crime-App
-R Shiny App that looks at crime in different Atlanta Neighborhoods.
+R Shiny App that looks at crime in different Atlanta Neighborhoods. Please Read the comments in the Data-Pre-Proc file some of them are important.
 
 ####  IMPORTANT STUFF
 There are over 200 neighborhoods in Atlanta. In order to get all the Long./Lat. data, I created a loop to pull it all from Google Maps.
