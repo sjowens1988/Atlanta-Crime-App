@@ -7,3 +7,7 @@ I had an API Key, but for some reason I could only pull around 50 neighborhoods 
 
 ## YOU ONLY NEED TO RUN LINES 42-67 ONCE, THEN JUST RUN LINES 73-75.
 
+## LINES 5 and 63 require the path to where the files are.
+## LINE 45 requires the API for Google Maps
+
+
